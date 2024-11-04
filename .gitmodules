@@ -1,0 +1,3 @@
+[submodule "django-ex"]
+	path = django-ex
+	url = https://github.com/rajeev00723/django-ex
